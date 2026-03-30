@@ -44,9 +44,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![WhatsApp Image 2026-03-15 at 8 11 12 PM](https://github.com/user-attachments/assets/76c7a0fb-273b-4466-9bb2-571ae5ef5b4f)
+![WhatsApp Image 2026-03-15 at 8 12 13 PM](https://github.com/user-attachments/assets/5e25a6a3-fc3c-46b4-a604-6ecc2f0b0dd3)
+![WhatsApp Image 2026-03-15 at 8 12 58 PM](https://github.com/user-attachments/assets/473b446d-f8f1-456c-85a8-b978b49224b1)
 
-### Name:
-### Register Number:
+### Name:Mithun Kumar V
+### Register Number:212225040236
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
